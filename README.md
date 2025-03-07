@@ -1,0 +1,3 @@
+# realtime-chat
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-f1413d?style=flat&logo=svelte&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-d4a453?style=flat&logo=bun&logoColor=white) ![Elysia](https://img.shields.io/badge/Elysia-883a9c?style=flat&logo=javascript&logoColor=white)

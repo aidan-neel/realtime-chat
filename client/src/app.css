@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=M+PLUS+Rounded+1c&display=swap');
+
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@font-face {
+	font-family: 'Geist';
+	src: url('/fonts/Geist.ttf') format('truetype-variations');
+}
+
+@theme {
+	--font-sans: 'Inter';
+}
+
+* {
+	@apply font-sans;
+}
